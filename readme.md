@@ -7,7 +7,7 @@ This repository contains a simple tutorial that explains how to interact with th
 ## 📘 What You'll Learn
 
 - How to connect to an Ethereum provider
-- How to access the Uniswap V2 Factory contract
+- How to access the Uniswap V3 Factory contract
 - How to call read methods like `getPair`, `allPairs`, and `allPairsLength`
 - How to interpret pair addresses
 - Basics of using Ethers.js to read data from smart contracts
