@@ -2,7 +2,7 @@
 
 This repository contains a simple tutorial that explains how to interact with the **Uniswap Factory Contract** using JavaScript and Ethers.js.
 
-🎥 **Tutorial video**: [Watch on YouTube](https://www.youtube.com/watch?v=dOZ-u2zQ44A)
+🎥 **Tutorial video**: [Watch on YouTube](https://www.youtube.com/watch?v=dOZ-u2zQ44A) (https://www.youtube.com/watch?v=dOZ-u2zQ44A)
 
 ## 📘 What You'll Learn
 
